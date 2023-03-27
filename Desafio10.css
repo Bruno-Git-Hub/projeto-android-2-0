@@ -1,0 +1,121 @@
+@charset "UTF-8"
+
+       body{
+            background-color: #3d52d5;
+        }
+
+        header{
+            background-color: #090C9B;
+            background-image: linear-gradient(to top, #090C9B 10%, #2d2fa091 60%, #5253977a);
+            box-shadow: 2px 2px 2px 2px #07084e7a;
+            padding: 5px 1px;
+            margin: 1px 1px;
+        }
+
+        h1{
+            color: #a7c4c2;
+            text-align: center;
+            padding: 30px;
+            margin: 1px;
+        }
+
+        p#subtitulo{
+            color: #a7c4c2;
+            text-align: center;
+            padding: 1px 1px;
+            margin: 1px 1px;
+        }
+
+        nav#menu{
+            color: #a7c4c2;
+            padding: 5px 1px;
+        }
+
+        a{
+            color: white;
+            padding: 1px 10px;
+            text-decoration: none;
+        }
+
+        a:hover{
+            text-decoration: underline;
+            color: yellow;
+        }
+
+        a#link{
+            color: #97efe9;
+        }
+
+        main{
+            background-color: white;
+            color: black;
+            border: #4a001f;
+            box-shadow: 2px 2px 2px 2px #00000071;
+            width: 70%;
+            padding: 10px;
+            margin: auto;
+        }
+
+        section{
+            text-align: center;
+            padding: 1px;
+            margin: 1px;
+        }
+
+        section#final{
+            background-color: #3d52d5;
+            border-radius: 10px;
+            box-shadow: 2px 2px 2px 2px rgba(19, 26, 66, 0.473);
+        }
+
+        ul{
+            text-align: left;
+            content: ' ⇒ ';
+        }
+
+        h2{
+            font-family: 'Fredericka the Great', cursive;
+            font-size: 3em;
+            font-weight: normal;
+            text-align: left;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        h3{
+            font-family: 'Fredericka the Great', cursive;
+            font-size: 2em;
+            font-weight: normal;
+            background-image: linear-gradient(to right, #1e20a1a8 10%, #6566a83a 30%, #9394b32a 40%, #ffffff1a 60%);
+            color: #00013f;
+            text-align: left;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        h4{
+            background-color: #1416a3a8;
+            color: #97efe9;
+            text-align: left;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        p{
+            text-align: justify;
+            text-indent: 30px;
+        }
+
+        p#fim{
+            text-align: center;
+        }
+
+        b{
+            color: #97efe9;
+        }
+
+        footer{
+            background-color: #2e0219;
+            color: #a7c4c2;
+            text-align: center;
+        }
